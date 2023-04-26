@@ -1,0 +1,42 @@
+{
+  "TermsOfServiceVersion": 1,
+  "TermsAgreedToWhen": "2023-04-26T13:36:27Z",
+  "IdClaims": [
+    {
+      "Claim": "gh:ymstnt"
+    },
+    {
+      "Claim": "yt:@ymstnt"
+    },
+    {
+      "Claim": "mdon:@ymstnt@mstdn.social"
+    }
+  ],
+  "IdDisclaims": [
+    {
+      "Claim": "med:no-account"
+    },
+    {
+      "Claim": "pat:no-account"
+    },
+    {
+      "Claim": "post:no-account"
+    },
+    {
+      "Claim": "spout:no-account"
+    },
+    {
+      "Claim": "ss:no-account"
+    }
+  ],
+  "Signature": {
+    "Authority": "https://whosum.com",
+    "PublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApF0NC9C13limzP9H5\u002BcXoWEddOfjDdysecEWNhNxS3yCWdRJjsCpIWY3euUxIFWw9W9Zkbo1tx8YbnLVdCPd7qORelTZZR5I9IvQdsyyqZIeAuw4xk/VcK119Kme13cqhsjOtgCrdekjz5YEklZqXdZKclJMc2fqHjOfHl07lYXWmqx8FxCUjjGCkBcr4WZD/uvs0SXRACkXS01bP0Wbao1sHxyFoADHV5i8Yvg2o32Sy37DMMMOfjO8ZpqqwNKVEs04gGL\u002BnGkDqNP/6lIaTinrzCJe57qcorGcVlWGdV4nC5uMgIgqZ/7pzrCHF5WbXai3g3AObmPJ5eG8TCTsrQIDAQAB",
+    "Nonce": "709012f0689abf1ee55a61fb",
+    "Timestamp": "2023-04-26T13:38:56Z",
+    "Signature": "a36e81687f906b851891425da59b6f744949b77fa0297d7a0742f7d46e32f410425ada437fb28e9a7b8eb1f9feec32a32ec5e5ceb3c759a0ca1a2f5e0a000fb3893d0fb4cda84cf02d87bcf623d732b6af396615727aa4a1e3337e22e35dd788cdd99ac492bba97d501e269e6f8fdaab6124ae227310b9cf07757a2e80eb3be271a3bbeb612abfeb1a42f796847840d26fe05018d0d1b1c93717f7bcbca5d8f8448db506a92813c1353ca666bf2046a4d30ffaf37f22d7dff042e0b85323ed1950222f0136a10b0f9bb29de813a6f498f44782e077b8c2b0b41dd5cbe270a0ef89b4395ed80e3fd18b336f3bc3c56dd10602c19d85895480fd6e07b6ce594b0a"
+  },
+  "AgreedToTerms": true,
+  "ContentSha256": "0a97ef44973d9b6305bf67dca6ccb810f253406d4509df4ba7308d90471069f1",
+  "ContentToHash": "v1|gh:ymstnt,mdon:@ymstnt@mstdn.social,med:no-account,pat:no-account,post:no-account,spout:no-account,ss:no-account,yt:@ymstnt|2023-04-26T13:36:27Z"
+}
